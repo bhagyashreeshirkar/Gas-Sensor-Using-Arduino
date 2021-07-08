@@ -18,6 +18,6 @@ The display message on the LCD is 'EVACUATE' indicating Red LED after detecting 
 <img width="646" alt="3" src="https://user-images.githubusercontent.com/67758900/124948131-0dd34880-e02e-11eb-80d8-33dad34eee03.PNG">  
 
 
-## demonstration of the model:   
+## Demonstration of the model:   
 
 https://user-images.githubusercontent.com/67758900/124945923-38bc9d00-e02c-11eb-976c-3ffc11e8db2c.mp4
